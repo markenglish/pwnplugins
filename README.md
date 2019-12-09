@@ -4,8 +4,9 @@ plugins for pwnagotchi
 # dropbox_ul 
 Create an app for dropbox @ https://www.dropbox.com/developers/apps/create
 
-Dropbox api
-App folder
+* Dropbox api
+* App folder
+* Whatever name you line
 
 Generate a token, replacing <db app token> with yours. 
 
