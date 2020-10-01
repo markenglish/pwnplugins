@@ -11,7 +11,7 @@ copy the path/folder name.
 # Steps to make this plugins work on pwnagotchi 1.5.3. and above using toml config
 copy dropbox_ul.py to /home/pi/pwnplugins
 
-edit main config.toml with
+edit main config.toml in pwnagotchi device with
 
 main.custom_plugins = "/home/pi/pwnplugins"
 
