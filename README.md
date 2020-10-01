@@ -1,8 +1,8 @@
 Dropbox api plugin for pwnagotchi.
 Compatible with v1.5.3 and above which uses toml for configuration instead of yml 
 
-# dropbox_ul steps
-Create an app for dropbox @ https://www.dropbox.com/developers/apps/create
+# dropbox app console steps
+Create an app for dropbox @ https://www.dropbox.com/developers/apps/create.
 generate and copy app token from your app console.
 copy the path/folder name.
 
